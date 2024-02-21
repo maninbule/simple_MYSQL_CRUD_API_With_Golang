@@ -1,0 +1,2 @@
+# simple_MYSQL_CRUD_API_With_Golang
+简单的使用mysql进行一个图书管理的crud api设计
